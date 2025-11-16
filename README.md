@@ -2,8 +2,6 @@
 
 # **Bank Customer Feedback Analysis using ML & Deep Learning**
 
-![Banner](https://img.shields.io/badge/AI%20Project-Banking-blue)
-
 ---
 
 ## **Project Overview**
@@ -51,11 +49,6 @@ This project analyzes **bank customer feedback** using **Machine Learning (ML)**
 * **Word Clouds:** Highlighted common words per category.
 * **Text Length Analysis:** Histogram of review word counts.
 
-**Sample Visualization:**
-
-![Category Distribution](https://via.placeholder.com/600x300.png?text=Category+Distribution)
-![WordCloud Example](https://via.placeholder.com/600x300.png?text=WordCloud+Example)
-
 ---
 
 ### **3. Machine Learning Models**
@@ -70,10 +63,6 @@ This project analyzes **bank customer feedback** using **Machine Learning (ML)**
 
 * Accuracy, Precision, Recall, F1-Score.
 * Confusion matrices visualized.
-
-**Sample ML Confusion Matrix:**
-
-![ML Confusion Matrix](https://via.placeholder.com/600x300.png?text=ML+Confusion+Matrix)
 
 ---
 
@@ -95,10 +84,6 @@ This project analyzes **bank customer feedback** using **Machine Learning (ML)**
 
 * Accuracy and loss curves plotted.
 * Confusion matrix for DL predictions.
-
-**Sample DL Accuracy Curve:**
-
-![DL Accuracy Curve](https://via.placeholder.com/600x300.png?text=LSTM+Accuracy+Curve)
 
 ---
 
@@ -174,9 +159,19 @@ pip install -r requirements.txt
 python src/customer_feedback_analysis.py
 ```
 
+---
+
+## **Future Work**
+
+* Add **real-time feedback prediction** for bank apps.
+* Integrate **sentiment scoring + topic modeling**.
+* Deploy as a **web app / dashboard** for bank analytics teams.
 
 ---
 
-I can also **generate the actual graph images** (bar charts, word clouds, confusion matrices) and replace the placeholder images so the README looks **fully polished and visually attractive** on GitHub.
 
-Do you want me to do that next?
+---
+
+If you want, I can **also make a final “polished” version** with **section formatting, badges, and markdown styling** so it looks **very attractive on GitHub** for recruiters.
+
+Do you want me to do that?
