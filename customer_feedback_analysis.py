@@ -22,7 +22,7 @@ from tensorflow.keras.layers import Embedding, LSTM, Dense, Dropout, Bidirection
 # -----------------------------------
 # Load Data
 # -----------------------------------
-df = pd.read_csv('data/bank_reviews.csv')
+df = pd.read_csv('bank_reviews.csv')
 print("=== First 5 rows ===")
 print(df.head())
 print("\n=== Data Info ===")
@@ -225,3 +225,4 @@ with open('models/rf_model.pkl', 'wb') as f:
 model.save('models/lstm_model.h5')
 
 print("\nModels and vectorizer/tokenizer saved to /models directory.")
+
