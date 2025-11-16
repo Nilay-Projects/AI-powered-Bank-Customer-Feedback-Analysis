@@ -138,3 +138,15 @@ Banking-AI-Project/
 
 ---
 
+## **Uses / Applications**
+
+This project can be used by banks and financial institutions to:
+
+* **Automate Customer Feedback Categorization:** Reduce manual effort in analyzing feedback.
+* **Identify Service Gaps:** Quickly detect complaints or negative sentiment.
+* **Enhance Customer Experience:** Proactively address pain points and improve satisfaction.
+* **Support Decision-Making:** Provide data-driven insights to improve products, apps, and services.
+* **Portfolio & Learning:** Showcase NLP, ML, and DL skills for AI, Data Science, and Python roles in banking.
+
+---
+
